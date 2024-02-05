@@ -1,16 +1,24 @@
-### Hi there 👋
+## My name is Isaque Gonzaga
 
-<!--
-**Isaqueacc/isaqueacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Software Developer júnior
+-  ADS in @ [SENAI](https://www.senaibahia.com.br/)
+-  Passionate about development
+-  Love a good challenge
 
-Here are some ideas to get you started:
+  ## Technical Skills
+- Solid foundation in progaming logic
+- Knowledge in Java OO
+- Advanced course in computing
+- Advanced course in package office
+- basic english
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Soft Skills
+- *Proactive* - I seek to identify and resolve possible problems
+- *Communication* - I have excellent communication, I can express myself clearly and objectively.
+- *objective* - I always try to obtain and achieve goals are  a objective as possible.
+- *Easy Learning* - I learn quickly and always try to put what I learn into practice.
+- *Discipline* - I have the necessary discipline to carry out any task with excellence.
+  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueacc&hide_progress=true)
