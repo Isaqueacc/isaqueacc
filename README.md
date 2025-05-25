@@ -1,13 +1,10 @@
-## My name is Isaque Gonzaga
-
--  Desenvolvedor de Software Júnior
--  ADS no @ [SENAI](https://www.senaibahia.com.br/)
 
 ## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando atualmente como Freelancer.
-- 🌱 Aprendendo mais sobre {Desenvolvimento Back-end / Mobile}.
+-  Desenvolvedor de Software Júnior
+-  ADS no @ [SENAI](https://www.senaibahia.com.br/)
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Trabalhando atualmente como Freelancer.
+-  Aprendendo mais sobre {Desenvolvimento Back-end / Mobile}.
 
 ## Minhas Skills
 
