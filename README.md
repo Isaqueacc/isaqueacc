@@ -43,4 +43,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquegonzaga/)](Isaqueacc)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzagaisaque@gmail.com)](gonzagaisaque4@gmail.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gonzagaisaque4@gmail.com" alt="Gmail"/></a>
