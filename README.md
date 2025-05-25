@@ -36,4 +36,5 @@
 
 ## Onde me encontrar
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&link=www.linkedin.com/in/isaquegonzaga&logoColor=white&link=https://www.linkedin.com/in/isaquegonzaga/" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=gonzagaisaque4@gmail.com" />
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquegonzaga/)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-gonzagaisaque4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
