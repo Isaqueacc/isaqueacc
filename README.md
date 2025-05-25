@@ -4,7 +4,6 @@
 -  ADS in @ [SENAI](https://www.senaibahia.com.br/)
 -  Passionate about development
 -  Love a good challenge
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
