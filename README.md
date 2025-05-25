@@ -35,7 +35,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> | `https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000`
+<img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000">
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaqueacc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
